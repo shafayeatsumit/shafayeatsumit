@@ -14,8 +14,14 @@
 
 <br />
 
-Hey, I'm Shafayeat! I'm burning for Web3 and all the opportunities that are in front of us! Highly interested in Blockchain, Solidity, NFTs, Crypto in general. Let´s make the web ours again!
+Hey, I'm Shafayeat! I am an expert mobile app developer.
 
+Using React Native, I create well-designed, beautiful cross-platform (android and IOS) mobile apps.
+
+I love React Native and have been using it to develop a variety of apps for clients ever since it came out.
+
+What this means for you:
+I have the ability to produce an Android and IOS app in half the time it usually takes a developer to produce just a single platform app.
 Web and mobile developer specializing in cross-platform and Web3 application development.
 
 
@@ -26,11 +32,11 @@ Web and mobile developer specializing in cross-platform and Web3 application dev
 
 **languages and tools:**  
 
-<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" />
-</code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" /></code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+</code>
+<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" />
 </code>
 <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
