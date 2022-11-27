@@ -22,8 +22,6 @@ I love React Native and have been using it to develop a variety of apps for clie
 
 What this means for you:
 I have the ability to produce an Android and IOS app in half the time it usually takes a developer to produce just a single platform app.
-Web and mobile developer specializing in cross-platform and Web3 application development.
-
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
