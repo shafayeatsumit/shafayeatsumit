@@ -2,6 +2,10 @@
 
 Hello, I'm Shafayeat – an independent contractor with a passion for crafting amazing frontends. Over the past 5+ years, I've been dedicated to assisting startups in creating impressive user interfaces. ✨
 
+
+While I remain adaptable to various technologies, I do hold a particular affinity for __React__, __React Native__, __Typescript__, and __Python__ 💡🚀
+
+
 ## Current Work 💼
 
 I'm currently leading the mobile team at [Paynest](https://www.paynest.co), contributing to cutting-edge mobile development. 📱
