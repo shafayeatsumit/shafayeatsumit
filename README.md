@@ -1,40 +1,22 @@
-## Hi there 👋
-<a href="https://www.linkedin.com/in/shafayeat/">
-  <img align="left" alt="shafayeat's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://discord.gg/7cQd3rys">
-<img align="left" alt="Shafayeat's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://twitter.com/ShafayeatSumit">
-  <img align="left" alt="shafayeat sumit | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
+# Shafayeat - Independent Frontend Contractor 👨‍💻
 
+Hello, I'm Shafayeat – an independent contractor with a passion for crafting amazing frontends. Over the past 5+ years, I've been dedicated to assisting startups in creating impressive user interfaces. ✨
 
-![](https://visitor-badge.glitch.me/badge?page_id=shafayeatsumit.shafayeatsumit)
+## Current Work 💼
 
-<br />
+I'm currently leading the mobile team at [Paynest](https://www.paynest.co), contributing to cutting-edge mobile development. 📱
 
-Hey, I'm Shafayeat! I am an expert mobile app developer.
+## Previous Achievements 🏆
+- I built [Vome](https://www.vomevolunteer.com/), an all-in-one volunteer management system streamlining coordination, especially for schools and organizations. 🌟
+- Played a key role in [Skylight's](https://www.skylightframe.com/) journey, propelling them from startup to [$75 million](https://www.forbes.com/sites/amyfeldman/2022/12/20/how-a-former-vc-built-a-consumer-tech-company-to-75-million-revenue-with-no-investors/?sh=3a299be743db) consumer electronics powerhouse 💪
+- At [Finder](https://finder-lbs.com/), a vehicle tracking system, I contributed to backend scaling and developed their mobile app, now embraced by 50K users. 🚀
+## Ready to Take Your Project to New Heights?
 
-Using React Native, I create well-designed, beautiful cross-platform (android and IOS) mobile apps.
+My focus is on delivering outstanding contracting services, with a bonus openness to discussing co-founder roles. Let's elevate your project together! 🚀🛠️
 
-I love React Native and have been using it to develop a variety of apps for clients ever since it came out.
-
-What this means for you:
-I have the ability to produce an Android and IOS app in half the time it usually takes a developer to produce just a single platform app.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💼 any freelance work? do reach, [email](mailto:sumithired@gmail.com) :)
+- 💼 Lets discuss? do reach, [email](mailto:sumithired@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
-**languages and tools:**  
-
-<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></code>
-<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
-<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" /></code>
-<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-</code>
-<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" />
-</code>
-<code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></code>
